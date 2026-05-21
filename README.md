@@ -6,7 +6,6 @@
 [![Protocols](https://img.shields.io/badge/TWI-SPI--USART-green)]()
 [![Medical](https://img.shields.io/badge/application-Medical%20CO₂-red)]()
 [![Language](https://img.shields.io/badge/C-64.4%25-brightgreen)]()
-[![Assembly](https://img.shields.io/badge/Assembly-35.6%25-orange)]()
 
 ---
 
