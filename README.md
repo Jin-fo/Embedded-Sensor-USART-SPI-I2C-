@@ -30,9 +30,13 @@
 
 The **AK9723 Medical CO₂ Breathing Monitor** is a professional-grade embedded platform designed for **patient respiratory monitoring (capnography)**. Built around the **AVR128DB48 microcontroller** and **Asahi Kasei Microdevices AK9723 NDIR CO₂ sensor**, this system delivers real-time carbon dioxide concentration measurement with:
 
-- **Analog waveform output** for medical display integration
-- **Terminal-based calibration** via USART (115200 baud)
-- **Multi-page LCD output** with toggleable display for analog stability
-- **Dual error notification** (LED + LCD) from sensor status registers
+## Key Features
+
+- DAC-based analog CO₂ waveform output derived from sensor ADC voltage for respiratory visualization  
+- Interrupt-driven USART (115200 baud) terminal interface using ASCII commands  
+- FSM command parser for AK9723AJ sensor configuration and calibration register control  
+- Multi-page SerLCD (SPI0) interface with ~400 ms update delay
+- Optional display disable for improved analog stability  
+- Single GPIO LED used for boot indication and runtime error signaling via `get_AK9723_stats()`  
 
 **Target Applications:** ICU bedside monitoring, ventilator integration, anesthesia gas analysis, and emergency respiratory monitoring.
