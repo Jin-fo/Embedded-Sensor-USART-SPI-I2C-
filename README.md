@@ -12,18 +12,16 @@
 ## 📋 Table of Contents
 
 - [Executive Summary](#executive-summary)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [AK9723 CO₂ Sensor Integration](#ak9723-co₂-sensor-integration)
-- [Medical Breathing Monitor Features](#medical-breathing-monitor-features)
-- [Terminal Command System](#terminal-command-system)
-- [Multi-Page Display System](#multi-page-display-system)
-- [Performance & Optimization](#performance--optimization)
-- [Hardware Connections](#hardware-connections)
-- [Build & Flash Instructions](#build--flash-instructions)
-- [Terminal Command Reference](#terminal-command-reference)
-- [Troubleshooting](#troubleshooting)
-- [Version History](#version-history)
+- [System Overview](#system-overview)
+- [Hardware Architecture](#hardware-architecture)
+- [Communication Interfaces (TWI / SPI / USART / DAC)](#communication-interfaces-twi--spi--usart--dac)
+- [AK9723AJ CO₂ Sensor Operation](#ak9723aj-co₂-sensor-operation)
+- [Real-Time Data Acquisition & Processing](#real-time-data-acquisition--processing)
+- [FSM-Based USART Terminal Control](#fsm-based-usart-terminal-control)
+- [Medical CO₂ Waveform Output (DAC)](#medical-co₂-waveform-output-dac)
+- [Display System (SerLCD SPI0)](#display-system-serlcd-spi0)
+- [System Optimization & Stability Behavior](#system-optimization--stability-behavior)
+- [Error Handling & Status Indication](#error-handling--status-indication)
 
 ---
 
