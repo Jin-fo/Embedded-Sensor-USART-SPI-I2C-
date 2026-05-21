@@ -12,17 +12,13 @@
 [![I2C](https://img.shields.io/badge/I2C-0078D4?style=for-the-badge&logo=serial&logoColor=white)](https://en.wikipedia.org/wiki/I%C2%B2C)
 [![SPI](https://img.shields.io/badge/SPI-FF6B6B?style=for-the-badge&logo=serial&logoColor=white)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 
-[![AVR128DB48](https://img.shields.io/badge/AVR128DB48-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus)
-
-[![TWI](https://img.shields.io/badge/TWI-I2C-0078D4?style=for-the-badge&logo=serial&logoColor=white)](https://en.wikipedia.org/wiki/I%C2%B2C)
-
+[![C](https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![AVR](https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus)
+[![I2C](https://img.shields.io/badge/I2C-0078D4?style=for-the-badge&logo=serial&logoColor=white)](https://en.wikipedia.org/wiki/I%C2%B2C)
 [![SPI](https://img.shields.io/badge/SPI-FF6B6B?style=for-the-badge&logo=serial&logoColor=white)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
-
-[![USART](https://img.shields.io/badge/USART-115200%20baud-00A86B?style=for-the-badge&logo=serial&logoColor=white)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
-
+[![UART](https://img.shields.io/badge/UART-115200%20baud-00A86B?style=for-the-badge)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 [![DAC](https://img.shields.io/badge/DAC-analog%20output-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
-
-[![Medical CO₂](https://img.shields.io/badge/Medical%20CO₂-capnography%20system-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Capnography)
+[![Capnography](https://img.shields.io/badge/Capnography-CO₂%20waveform-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Capnography)
 ---
 
 **Version 1.0 | Last Updated: May 2026 | Author: Jin Yuan Chen**
