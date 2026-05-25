@@ -60,7 +60,7 @@ The system provides DAC-based analog waveform output, SerLCD visualization via S
 </p>
 <p align="center">
 <p align="center">
-  <em>Figure 2: Command Parse FSM diagram, logic flow to interfacing terminal command characters to AVR microcontroller via USART.</em>
+  <em>Figure 2: Command Parse FSM diagram, logic flow of terminal command characters to AVR microcontroller via USART.</em>
 </p>
 
   
